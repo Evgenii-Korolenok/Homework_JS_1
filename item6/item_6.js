@@ -8,4 +8,4 @@ let STrapA = '5 см',
 let STrapResult = ((StrapANum + STrapBNum) / 2) * StrapHeightNum
     Strap = STrapResult + 'см^2';
     
-    console.log(Strap,)
+console.log(Strap,)
